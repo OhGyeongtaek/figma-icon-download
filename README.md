@@ -13,7 +13,7 @@ console.log('[typescript] 파일 생성 완료');
 
 # API 키 등록 방법
 
-## `accessToken`
+## `accessToken` 값 등록
 
 ![accessToken 등록 방법 이미지](https://github.com/OhGyeongtaek/figma-icon-download/assets/20200820/69c171c6-ce06-441c-b9ae-2bbddc00966c)
 
@@ -27,7 +27,7 @@ console.log('[typescript] 파일 생성 완료');
 
 (저는 Expiration 값을 No Expiration으로 설정했습니다. 본인 상황에 맞게 설정하시면 될 거 같습니다.)
 
-## `file-id` & `node-id`
+## `file-id & node-id` 값 등록
 
 ![file-id, node-id 정의하는 설명 이미지](https://github.com/OhGyeongtaek/figma-icon-download/assets/20200820/5347cc2d-864d-434e-85fb-2b3457ff6b68)
 
