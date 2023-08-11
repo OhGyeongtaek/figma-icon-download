@@ -1,0 +1,14 @@
+{
+  "name": "figma-icon-download",
+  "version": "1.0.0",
+  "description": "figma icon download ",
+  "main": "index.js",
+  "scripts": {
+    "download": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
