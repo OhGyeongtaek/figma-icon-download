@@ -1,8 +1,3 @@
-/**
- * 피그마 API를 이용해 디자이너가 만든 icon을 생성하는 스크립트 입니다.
- *
- * 참고 자료: https://velog.io/@jun094/Figma-API%EB%A1%9C-storybook%EA%B3%BC-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%8F%99%EA%B8%B0%ED%99%94%EC%8B%9C%ED%82%A4%EA%B8%B0
- */
 const fs = require('fs');
 const axios = require('axios');
 const path = require('path');
