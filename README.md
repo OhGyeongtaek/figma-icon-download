@@ -11,6 +11,10 @@ createIconTypesFile(components);
 console.log('[typescript] 파일 생성 완료');
 ```
 
+# 작동 결과 이미지
+
+![작동 결과 이미지](https://github.com/OhGyeongtaek/figma-icon-download/assets/20200820/405a2165-401f-4abc-bcbf-c0de89ba8dcd)
+
 # API 키 등록 방법
 
 ## `accessToken` 값 등록
